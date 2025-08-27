@@ -1,8 +1,6 @@
 # ParkingLot-Statistics
 
-This repository serves as an online appendix to the paper, providing parcel data sources for all cities included in the study.  
-Each row lists the city and the corresponding link to the data source.  
-All data were accessed in June 2025.
+This repository serves as an online appendix to a paper analyzing surface parking lot statistics across 15 major U.S. cities, and provides parcel data sources for all cities included in the study. Each row lists the city and the corresponding link to the data source. All data were accessed in June 2025.
 
 ---
 
