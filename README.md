@@ -9,7 +9,7 @@ All data were accessed in June 2025.
 ## Parcel Data Sources
 
 
-| City | Data Source || City | Data Source || City | Data Source |
+| City | Source URL || City | Source URL || City | Source URL |
 |------|-------------|-|------|-------------|-|------|-------------|
 | Chicago | [Link](https://geodacenter.github.io/data-and-lab/parcels/) || Indianapolis | [Link](https://data.indy.gov/datasets/IndyGIS::parcels/explore) || Phoenix | [Link](https://www.phoenixopendata.com/dataset/city-parcels) |
 | Anaheim | [Link](https://data-anaheim.opendata.arcgis.com/datasets/cdccbb378b044230882d629bad8373b8_59/explore?location=33.833683%2C-117.845550%2C12.35) || Losangeles | [Link](https://data.lacounty.gov/documents/4d67b154ae614d219c58535659128e71/about) || Riverside | [Link](https://rcitgis-countyofriverside.hub.arcgis.com/) |
